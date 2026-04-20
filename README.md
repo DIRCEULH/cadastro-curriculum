@@ -5,11 +5,6 @@ _______________Funcionalidades_________________
 Opção de anexo imagem e anexo a pdf,docx
 
 ______________________________________
-Link acesso: https://dirceuluis.000webhostapp.com/Cadastro_curriculum/index.php
-Programador : Dirceu Luis Heineck
-Email: dirceulh@hotmail.com
-
-
 Copyright (c) 2026 Dirceu Heineck
 
 Todos os direitos reservados.
